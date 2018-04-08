@@ -24,6 +24,7 @@ public class test1 {
 	@Test(priority=5)
 	public void EditAccount(){
 		System.out.println("this is Search Account script");
+		System.out.println("this is  test Search Account script");
 	}
 	
 
