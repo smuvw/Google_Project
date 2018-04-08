@@ -14,5 +14,11 @@ public class test1 {
 		System.out.println("this is Account script");
 	}
 	
+	@Test(priority=4)
+	public void searchAccount(){
+		System.out.println("this is Search Account script");
+	}
+	
+	
 
 }
