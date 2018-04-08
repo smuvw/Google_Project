@@ -17,7 +17,7 @@ public class test1 {
 	@Test(priority=4)
 	public void searchAccount(){
 		System.out.println("this is Search Account script");
-		System.out.println("this is Search Account script");
+		System.out.println("this is  a Search Account script");
 	}
 	
 	@Test(priority=5)
