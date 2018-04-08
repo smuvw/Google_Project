@@ -20,6 +20,10 @@ public class test1 {
 		System.out.println("this is Search Account script");
 	}
 	
+	@Test(priority=5)
+	public void EditAccount(){
+		System.out.println("this is Search Account script");
+	}
 	
 
 }
